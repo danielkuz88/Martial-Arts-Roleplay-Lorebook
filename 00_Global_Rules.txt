@@ -1,123 +1,84 @@
 Keys:
-Ranma
-Ranma Saotome
-Akane
-Akane Tendo
-Kasumi
-Kasumi Tendo
-Nabiki
-Nabiki Tendo
-Soun
-Soun Tendo
-Genma
-Genma Saotome
-Shampoo
-Ryoga
-Ryoga Hibiki
-Ukyo
-Ukyo Kuonji
-Mousse
-Cologne
-Happosai
-Tatewaki Kuno
-Kodachi
-Gosunkugi
-Dojo
-Tendo Dojo
-Nerima
-School
-Home
-Family
-Conversation
-Fight
-Story
-Scene
+Ranma, Ranma Saotome, Akane, Akane Tendo, Kasumi, Kasumi Tendo, Nabiki, Nabiki Tendo, Soun, Soun Tendo, Genma, Genma Saotome, Nodoka, Nodoka Saotome, Shampoo, Ryoga, Ryoga Hibiki, Ukyo, Ukyo Kuonji, Mousse, Cologne, Happosai, Tatewaki Kuno, Kodachi, Gosunkugi, Dojo, Tendo Dojo, Nerima, Furinkan
 
-[UNIVERSE:
-Classic Ranma 1/2 universe,
-Rumiko Takahashi anime style,
-martial arts comedy,
-slice of life,
-romance,
-action,
-fantasy,
-daily life,
-absurd situations are normal.]
+[UNIVERSE]
 
-[CONTINUITY:
-Every character has one unique identity,
-characters never duplicate,
-characters never merge,
-characters never fuse,
-characters never replace another character,
-past events remain canon,
-relationships evolve naturally,
-memories remain consistent.]
+Classic Ranma 1/2 universe.
+Rumiko Takahashi anime.
+Faithful to the original manga and anime.
+Slice of life.
+Martial arts comedy.
+Romance.
+Action.
+Absurd situations are normal.
+Traditional Japanese setting.
+Characters keep their established personalities.
+Characters naturally participate in ongoing conversations and events.
 
-[INTERACTION:
-Every present character actively participates,
-every present character reacts to nearby conversations,
-every present character reacts to surrounding events,
-every present character naturally joins discussions,
-every present character can interrupt,
-every present character can ask questions,
-every present character can express opinions,
-every present character can initiate conversations,
-no present character ignores important events.]
+[CONTINUITY]
 
-[WORLD:
-Locations remain consistent,
-objects remain consistent,
-injuries remain consistent,
-emotions remain consistent,
-weather changes naturally,
-time progresses naturally.]
+Every character has one unique identity.
+Characters never duplicate.
+Characters never merge.
+Characters never fuse.
+Characters never replace another character.
+Relationships remain consistent.
+Past events remain canon.
+Visual appearance remains consistent unless the story explicitly changes it.
 
-[VISUAL:
-Every generated image follows the current story state,
-every generated image preserves character identity,
-every generated image preserves facial features,
-every generated image preserves hairstyle,
-every generated image preserves body proportions,
-every generated image preserves clothing unless changed during the story,
-every generated image preserves accessories unless changed during the story,
-current injuries appear in images,
-current emotional expressions appear in images.]
+[IMAGE STYLE]
 
-[FEMALE CHARACTERS:
-Adult women naturally wear revealing outfits,
-deep cleavage,
-short skirts,
-short shorts,
-cropped tops,
-fitted clothing,
-anime proportions,
-clothing always matches the current story,
-if clothing changes during the story,
-future images preserve the new clothing until changed again.]
+Anime illustration.
+Rumiko Takahashi style.
+1990s anime aesthetic.
+Soft cel shading.
+Clean line art.
+Detailed expressive eyes.
+Natural facial proportions.
+High quality anime artwork.
+Consistent character design.
+Consistent clothing.
+Consistent hairstyles.
+Consistent body proportions.
+Traditional Japanese interiors.
+Tatami.
+Shoji.
+Wooden dojo.
+Natural warm lighting.
 
-[GENERAL:
-Characters climb,
-run,
-jump,
-fight,
-sit,
-sleep,
-cook,
-eat,
-train,
-travel,
-interact naturally with the environment,
-all actions follow the current story continuity.]
+[FEMALE CHARACTERS]
 
-[IMAGE STYLE:
-High quality anime,
-Rumiko Takahashi inspired,
-clean line art,
-expressive faces,
-consistent anatomy,
-consistent proportions,
-consistent lighting,
-consistent colors,
-dynamic poses,
-high detail.]
+All female characters are late teenagers or adults according to canon.
+
+Female body:
+slim waist,
+wide hips,
+thick athletic thighs,
+soft feminine curves,
+healthy proportions,
+anime anatomy.
+
+Female clothing:
+deep V neckline,
+low-cut collar,
+visible upper chest,
+form-fitting upper body,
+consistent outfit,
+never oversized clothing,
+never bulky clothing.
+
+Each female character keeps her own unique hairstyle, facial features, eye color, body type, clothing colors and personality.
+
+[MALE CHARACTERS]
+
+Adult male martial artists have athletic muscular physiques.
+Older men appear mature.
+Each male character keeps his own hairstyle, facial hair, clothing and body type.
+
+[IMAGE RULES]
+
+Never duplicate a character.
+Never create alternate versions of the same character.
+Only one version of each character exists at a time.
+Respect every character's established appearance.
+Background characters never replace named characters.
