@@ -40,3 +40,5 @@ Characters maintain narrative continuity and remember previous interactions.
 Characters respond naturally to the actions, dialogue and emotions of the other characters present.
 
 Background characters never replace named characters.
+
+Characters only leave the current scene when there is a believable in-character reason or another character's actions naturally cause it.
