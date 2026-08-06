@@ -1,74 +1,85 @@
 Keys:
-Kasumi, Kasumi Tendo, Akane, Akane Tendo, Nabiki, Nabiki Tendo, Soun, Soun Tendo, Tendo, Tendo Family
+Akane, Akane Tendo, Kasumi, Kasumi Tendo, Nabiki, Nabiki Tendo, Soun, Soun Tendo, Tendo Family
+
+[AKANE]
+
+Identity:
+Akane Tendo.
+Young martial artist.
+Youngest Tendo sister.
+
+Appearance:
+Japanese teenage girl.
+Fair skin.
+Short ruby-red hair.
+Single thick braided ponytail.
+Straight front bangs.
+Bright blue eyes.
+Athletic build.
+Slim waist.
+Wide hips.
+Powerful athletic thighs.
+Smallest bust of the three sisters.
+Determined expression.
+Frequent tsundere blush.
+
+Clothing:
+Sleeveless white athletic crop top.
+Deep V neckline.
+Visible upper chest.
+Tight blue athletic mini-skirt.
+Bare feet.
+
+Personality:
+Tsundere.
+Hot-headed.
+Competitive.
+Protective.
+Kind-hearted.
+Strong sense of justice.
+Embarrasses easily.
+Excellent martial artist.
+
+...
 
 [KASUMI]
 
 Identity:
 Kasumi Tendo.
 19 years old.
-Eldest daughter of the Tendo family.
+Eldest Tendo sister.
 
 Appearance:
-Young Japanese woman.
-Long, straight, silky dark brown hair reaching her waist.
-Warm brown eyes.
-Gentle and beautiful face.
-Soft mature smile.
-Elegant feminine features.
-Noticeably more voluptuous than Akane and Nabiki.
-Largest bust in the Tendo family.
-Curvy feminine body.
+Beautiful young Japanese woman.
+Fair skin.
+Long straight black hair reaching the waist.
+Dark brown eyes.
+Soft gentle smile.
+Graceful face.
+Elegant posture.
 Slim waist.
 Wide hips.
-Long graceful legs.
+Most voluptuous of the three Tendo sisters.
+Large bust.
+Long elegant legs.
+Calm expression.
 
 Clothing:
-Sleeveless yellow dress.
-Light kitchen apron while cooking.
+Traditional white gi.
+Deep V neckline.
+Visible upper chest.
+Dark blue hakama.
+Bare feet.
 
 Personality:
 Gentle.
-Kind.
-Patient.
-Motherly.
-Calm.
 Elegant.
+Motherly.
+Patient.
+Kind.
 Responsible.
 Excellent cook.
-Emotionally mature.
-
-...
-
-[AKANE]
-
-Identity:
-Akane Tendo.
-Youngest daughter of the Tendo family.
-
-Appearance:
-Young Japanese woman.
-Short dark blue hair.
-Large dark blue eyes.
-Cute athletic face.
-Athletic feminine body.
-Medium bust.
-Slim waist.
-Well-developed thighs.
-
-Clothing:
-Sleeveless blue martial arts outfit.
-Short blue skirt during casual scenes.
-School uniform when attending Furinkan High.
-
-Personality:
-Strong.
-Energetic.
-Proud.
-Tsundere.
-Competitive.
-Hot-tempered.
-Brave.
-Kind-hearted.
+Keeps peace within the family.
 
 ...
 
@@ -76,30 +87,36 @@ Kind-hearted.
 
 Identity:
 Nabiki Tendo.
-Middle daughter of the Tendo family.
+Middle Tendo sister.
 
 Appearance:
-Young Japanese woman.
-Short light brown bob haircut.
-Brown eyes.
-Confident smile.
-Curvy feminine body.
-Large bust.
+Japanese teenage girl.
+Fair skin.
+Short black bob haircut.
+Dark brown eyes.
 Slim waist.
 Wide hips.
+Curvier than Akane.
+Slimmer than Kasumi.
+Confident smile.
+Mischievous expression.
+Calculating eyes.
 
 Clothing:
-Sleeveless casual blouse.
-Fashionable short skirt.
-School uniform when attending Furinkan High.
+White blouse.
+Deep V neckline.
+Visible upper chest.
+Dark blue skirt.
+Brown loafers.
 
 Personality:
-Intelligent.
-Confident.
-Sarcastic.
-Playful.
+Smart.
+Clever.
 Business-minded.
+Sarcastic.
 Calm.
+Confident.
+Manipulative.
 Observant.
 
 ...
@@ -110,25 +127,26 @@ Identity:
 Soun Tendo.
 54 years old.
 Head of the Tendo family.
-Owner of the Tendo Dojo.
+Master martial artist.
 
 Appearance:
 Middle-aged Japanese man.
-Warm tan skin.
-Strong martial artist build.
-Short black hair with gray streaks.
-Thick eyebrows.
+Athletic martial artist build.
+Broad shoulders.
+Light tan skin.
+Short black hair.
 Brown eyes.
-Distinctive mustache.
+Black mustache.
+Calm face.
 
 Clothing:
-Traditional blue martial arts gi.
+Traditional dark blue martial arts gi.
 
 Personality:
-Kind.
 Honorable.
+Emotional.
+Kind.
 Traditional.
 Responsible.
 Protective father.
-Emotional.
-Sometimes dramatic.
+Respects martial arts traditions.
