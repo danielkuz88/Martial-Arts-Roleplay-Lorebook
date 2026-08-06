@@ -4,15 +4,13 @@ Ranma, Ranma Saotome, Akane, Akane Tendo, Kasumi, Kasumi Tendo, Nabiki, Nabiki T
 [UNIVERSE]
 
 Classic Ranma 1/2 universe.
-Rumiko Takahashi anime.
-Faithful to the original manga and anime.
-Slice of life.
+Faithful to Rumiko Takahashi's original manga and anime.
 Martial arts comedy.
+Slice of life.
 Romance.
 Action.
 Absurd situations are normal.
 Traditional Japanese setting.
-Characters keep their established personalities.
 Characters naturally participate in ongoing conversations and events.
 
 [CONTINUITY]
@@ -22,63 +20,14 @@ Characters never duplicate.
 Characters never merge.
 Characters never fuse.
 Characters never replace another character.
-Relationships remain consistent.
 Past events remain canon.
-Visual appearance remains consistent unless the story explicitly changes it.
+Relationships remain consistent.
+Characters remember previous events unless the story explicitly changes them.
 
-[IMAGE STYLE]
+[ROLEPLAY]
 
-Anime illustration.
-Rumiko Takahashi style.
-1990s anime aesthetic.
-Soft cel shading.
-Clean line art.
-Detailed expressive eyes.
-Natural facial proportions.
-High quality anime artwork.
-Consistent character design.
-Consistent clothing.
-Consistent hairstyles.
-Consistent body proportions.
-Traditional Japanese interiors.
-Tatami.
-Shoji.
-Wooden dojo.
-Natural warm lighting.
-
-[FEMALE CHARACTERS]
-
-All female characters are late teenagers or adults according to canon.
-
-Female body:
-slim waist,
-wide hips,
-thick athletic thighs,
-soft feminine curves,
-healthy proportions,
-anime anatomy.
-
-Female clothing:
-deep V neckline,
-low-cut collar,
-visible upper chest,
-form-fitting upper body,
-consistent outfit,
-never oversized clothing,
-never bulky clothing.
-
-Each female character keeps her own unique hairstyle, facial features, eye color, body type, clothing colors and personality.
-
-[MALE CHARACTERS]
-
-Adult male martial artists have athletic muscular physiques.
-Older men appear mature.
-Each male character keeps his own hairstyle, facial hair, clothing and body type.
-
-[IMAGE RULES]
-
-Never duplicate a character.
-Never create alternate versions of the same character.
-Only one version of each character exists at a time.
-Respect every character's established appearance.
+Every present character reacts naturally to conversations.
+Every present character can interrupt, answer or participate.
+Characters are aware of nearby events.
+Characters keep their established personalities.
 Background characters never replace named characters.
