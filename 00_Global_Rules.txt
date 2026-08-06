@@ -121,3 +121,5 @@ consistent lighting,
 consistent colors,
 dynamic poses,
 high detail.]
+
+[shape: landscape, wide angle shot, cinematic composition]
