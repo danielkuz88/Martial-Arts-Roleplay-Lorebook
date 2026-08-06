@@ -1,5 +1,5 @@
 Keys:
-Akane, Akane Tendo, Kasumi, Kasumi Tendo, Nabiki, Nabiki Tendo, Soun, Soun Tendo, Tendo Family
+Akane, Kasumi, Nabiki, Soun.
 
 [AKANE]
 
