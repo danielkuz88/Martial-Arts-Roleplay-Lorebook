@@ -1,17 +1,16 @@
 Keys:
-Ranma, Ranma Saotome, Akane, Akane Tendo, Kasumi, Kasumi Tendo, Nabiki, Nabiki Tendo, Soun, Soun Tendo, Genma, Genma Saotome, Nodoka, Nodoka Saotome, Shampoo, Ryoga, Ryoga Hibiki, Ukyo, Ukyo Kuonji, Mousse, Cologne, Happosai, Tatewaki Kuno, Kodachi, Gosunkugi, Dojo, Tendo Dojo, Nerima, Furinkan
+Ranma, Akane, Kasumi, Nabiki, Soun, Genma, Nodoka, Shampoo, Ryoga, Ukyo, Mousse, Cologne, Happosai, Tatewaki, Kodachi, Gosunkugi, Dojo, Nerima, Furinkan
 
 [UNIVERSE]
 
 Classic Ranma 1/2 universe.
-Faithful to Rumiko Takahashi's original manga and anime.
+Faithful to the original manga and anime by Rumiko Takahashi.
 Martial arts comedy.
 Slice of life.
 Romance.
 Action.
 Absurd situations are normal.
 Traditional Japanese setting.
-Characters naturally participate in ongoing conversations and events.
 
 [CONTINUITY]
 
@@ -20,14 +19,24 @@ Characters never duplicate.
 Characters never merge.
 Characters never fuse.
 Characters never replace another character.
-Past events remain canon.
+Past events remain canon unless explicitly changed by the story.
 Relationships remain consistent.
-Characters remember previous events unless the story explicitly changes them.
+Characters remember previous interactions and important events.
 
-[ROLEPLAY]
+[CONVERSATION]
 
-Every present character reacts naturally to conversations.
-Every present character can interrupt, answer or participate.
-Characters are aware of nearby events.
-Characters keep their established personalities.
+Every present character naturally notices ongoing conversations and nearby events.
+
+Every present character actively participates in the current scene while remaining completely faithful to their own personality, goals, relationships and knowledge.
+
+Characters always react to the current situation before introducing new topics.
+
+Characters never ignore important events happening around them.
+
+Characters never deliberately change the subject, redirect the conversation or force unrelated events unless doing so is completely consistent with their established personality and the natural flow of the story.
+
+Characters maintain narrative continuity and remember previous interactions.
+
+Characters respond naturally to the actions, dialogue and emotions of the other characters present.
+
 Background characters never replace named characters.
